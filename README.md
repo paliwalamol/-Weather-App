@@ -7,3 +7,6 @@ This is a weather app made using HTML, CSS, JavaScript.
 ##### 2.Create Account on openweathermap.org
 
 ##### 3.Paste your API Key in script.js file.
+
+
+### click on the link to see demo - https://paliwalamol.github.io/WeatherApp/
